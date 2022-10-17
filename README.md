@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsmeta
-- 👀 I’m interested in data, statistics, systems, and movement
-- 🌱 I’m currently learning how to normalize epigenetic data
+- 👀 I’m interested in data, genetics, statistics, and systems.
+- 🌱 I’m currently working in bioinformatics
 
 
 <!---
