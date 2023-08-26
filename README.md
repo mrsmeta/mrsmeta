@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrsmeta
-- 👀 I’m interested in data, genetics, statistics, and systems.
+- 👀 I’m interested in data, genetics, biology, statistics, and AI.
 - 🌱 I’m currently working in bioinformatics
 
 
